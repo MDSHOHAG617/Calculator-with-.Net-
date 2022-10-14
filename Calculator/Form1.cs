@@ -42,9 +42,6 @@ namespace Calculator
                 resultBox.Text = Sum.ToString();
             }
 
-            
-           
-
 
         }
 
